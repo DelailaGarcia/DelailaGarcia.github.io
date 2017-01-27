@@ -1778,7 +1778,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2086,7 +2086,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2233,7 +2233,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2309,8 +2309,8 @@
             "iconFont": {
               "class": "mbr-iconfont-counters1",
               "linkInNewWindow": false,
-              "name": "pencil",
-              "family": "FontAwesome",
+              "name": "website-theme",
+              "family": "MobiriseIcons",
               "active": true,
               "size": "50",
               "color": "@primaryColor"
@@ -2323,7 +2323,7 @@
             "iconFont": {
               "class": "mbr-iconfont-counters1",
               "linkInNewWindow": false,
-              "name": "globe",
+              "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
               "size": "50",
@@ -2352,7 +2352,7 @@
               "class": "mbr-iconfont-counters1",
               "linkInNewWindow": false,
               "name": "camera",
-              "family": "FontAwesome",
+              "family": "MobiriseIcons",
               "active": true,
               "size": "50",
               "color": "@primaryColor"
@@ -2476,7 +2476,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-667.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-669.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
