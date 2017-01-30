@@ -734,21 +734,21 @@ h6,
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #f3c649!important;
 }
-#header6-8 .mbr-section-title {
+#header6-22 .mbr-section-title {
   color: #fac51c;
   text-align: left;
 }
-#header6-8 .mbr-section-text {
+#header6-22 .mbr-section-text {
   color: #ffffff;
   font-size: 14px;
   text-align: left;
 }
-#header6-8 .mbr-section-text B {
+#header6-22 .mbr-section-text B {
   font-size: 14px;
   color: #ffffff;
   text-align: left;
 }
-#header6-8 .mbr-section-text I {
+#header6-22 .mbr-section-text I {
   font-size: 12px;
 }
 #features4-9 .card-subtitle {
@@ -870,6 +870,14 @@ h6,
 }
 #features4-1a H4 {
   color: #fac51c;
+}
+#msg-box8-23 .mbr-section-title,
+#msg-box8-23 p {
+  color: #fff;
+}
+#msg-box8-23 .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
 }
 #features2-1d .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #4acece;
