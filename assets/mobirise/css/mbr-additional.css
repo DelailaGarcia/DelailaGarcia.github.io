@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -734,36 +737,49 @@ h6,
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #f3c649!important;
 }
-#header6-22 .mbr-section-title {
-  color: #fac51c;
-  text-align: left;
-}
-#header6-22 .mbr-section-text {
-  color: #ffffff;
-  font-size: 14px;
-  text-align: left;
-}
-#header6-22 .mbr-section-text B {
-  font-size: 14px;
-  color: #ffffff;
-  text-align: left;
-}
-#header6-22 .mbr-section-text I {
-  font-size: 12px;
-}
-#features4-9 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-9 .iconbox {
-  background-color: #fac51c;
-  border-color: #fac51c;
-}
-#features4-9 P {
-  text-align: center;
-  color: #fac51c;
-}
-#features4-9 H4 {
+#extAccordion3-25 H4 {
   color: #4acece;
+  font-size: 17px;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+}
+#extAccordion3-25 H1 {
+  color: #fac51c;
+  text-align: left;
+}
+#msg-box8-27 .mbr-section-title,
+#msg-box8-27 p {
+  color: #fff;
+}
+#msg-box8-27 .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#extFeatures3-26 .mbr-iconfont-features4 {
+  color: #fac51c !important;
+}
+#extFeatures3-26 .wraper {
+  border-color: #fac51c !important;
+}
+#extFeatures3-26 H4 {
+  color: #4acece;
+}
+#extFeatures3-26 .card-subtitle {
+  color: #fac51c;
+}
+#extFeatures3-26 P {
+  color: #4acece;
+}
+#extFeatures11-2i SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #4acece;
+}
+#extFeatures11-2i H4 {
+  font-family: 'Raleway', sans-serif;
+}
+#extFeatures11-2i .mbr-section-title {
+  color: #fac51c;
 }
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
