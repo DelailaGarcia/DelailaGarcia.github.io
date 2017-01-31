@@ -396,7 +396,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#28bebe",
             "showTitle": true,
             "showSubtitle": false,
