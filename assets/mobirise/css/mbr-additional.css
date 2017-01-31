@@ -753,7 +753,7 @@ h6,
 }
 #msg-box8-27 .mbr-section-title {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 36px;
 }
 #extFeatures3-26 .mbr-iconfont-features4 {
   color: #fac51c !important;
@@ -766,6 +766,7 @@ h6,
 }
 #extFeatures3-26 .card-subtitle {
   color: #fac51c;
+  font-size: 18px;
 }
 #extFeatures3-26 P {
   color: #4acece;
@@ -773,13 +774,13 @@ h6,
 #extFeatures11-2i SPAN {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
-  color: #4acece;
+  color: #ffffff;
 }
 #extFeatures11-2i H4 {
   font-family: 'Raleway', sans-serif;
 }
 #extFeatures11-2i .mbr-section-title {
-  color: #fac51c;
+  color: #ffffff;
 }
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
@@ -1097,6 +1098,9 @@ h6,
 #msg-box8-1p .mbr-section-title {
   color: #ffffff;
   font-size: 32px;
+}
+#gallery4-1r LI {
+  color: #fac51c;
 }
 #gallery4-1r LI {
   color: #fac51c;
