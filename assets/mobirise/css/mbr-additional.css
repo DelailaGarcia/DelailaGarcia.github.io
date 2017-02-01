@@ -752,8 +752,9 @@ h6,
   color: #fff;
 }
 #msg-box8-27 .mbr-section-title {
-  color: #ffffff;
-  font-size: 36px;
+  color: #4acece;
+  font-size: 48px;
+  text-align: center;
 }
 #extFeatures3-26 .mbr-iconfont-features4 {
   color: #fac51c !important;
@@ -781,6 +782,7 @@ h6,
 }
 #extFeatures11-2i .mbr-section-title {
   color: #ffffff;
+  text-align: center;
 }
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
@@ -875,8 +877,9 @@ h6,
   color: #fff;
 }
 #msg-box8-1c .mbr-section-title {
-  color: #ffffff;
+  color: #4acece;
   font-size: 32px;
+  text-align: center;
 }
 #features4-1a .card-subtitle {
   color: #fac51c;
@@ -893,7 +896,7 @@ h6,
   color: #fff;
 }
 #msg-box8-23 .mbr-section-title {
-  color: #ffffff;
+  color: #4acece;
   font-size: 32px;
 }
 #features2-1d .striped .mbr-cards-col:nth-child(2n+1) {
@@ -910,7 +913,7 @@ h6,
   color: #fff;
 }
 #msg-box8-1e .mbr-section-title {
-  color: #ffffff;
+  color: #4acece;
   font-size: 32px;
 }
 #features3-1g P {
@@ -924,7 +927,7 @@ h6,
   color: #fff;
 }
 #msg-box8-1h .mbr-section-title {
-  color: #ffffff;
+  color: #4acece;
   font-size: 32px;
 }
 #footer1-1i P {
@@ -1012,11 +1015,8 @@ h6,
 #ext_menu-10 .dropdown-item[aria-expanded="true"] {
   color: #f3c649!important;
 }
-#form1-13 .form-control-label {
-  color: #ffffff;
-}
-#form1-13 .mbr-section-title {
-  color: #fac51c;
+#extForm1-2p H2 {
+  color: #4acece;
 }
 #contacts1-11 P {
   color: #fac51c;
@@ -1098,9 +1098,6 @@ h6,
 #msg-box8-1p .mbr-section-title {
   color: #ffffff;
   font-size: 32px;
-}
-#gallery4-1r LI {
-  color: #fac51c;
 }
 #gallery4-1r LI {
   color: #fac51c;
