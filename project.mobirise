@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 98,
+    "uniqCompNum": 105,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -73,13 +73,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#4acece",
@@ -98,7 +98,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-12",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#4acece",
@@ -127,19 +127,19 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolioGallery.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolioGallery.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-2j",
+          "_anchor": "header1-2t",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header-1-2000x1052.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-1-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -150,53 +150,45 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
+          "title": "DELAILA Y. GARCIA",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extAccordion3",
-          "_styles": {
-            "H4": {
-              "color": "#4acece",
-              "font-size": "17px",
-              "text-align": "left",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "H1": {
-              "color": "#fac51c",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "extAccordion3-25",
+          "_name": "extHeader16",
+          "_anchor": "extHeader16-2w",
           "_params": {
-            "collapseAll": false,
-            "tabs": "1",
-            "imageSize": "47",
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "imageSize": 60,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader16_bg.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": true
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showForm": false,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -217,22 +209,36 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
-              "size": 250
+              "size": 0
             }
           },
-          "title": "DELAILA Y. GARCIA",
-          "title1": "As a Digital Media Design student at Miami Arts Studio 6-12, Delaila Garcia aspires to be a Graphic Designer and a future business owner. Throughout her years at MAS 6-12, she has been industry certified in Adobe Illustrator as well as awarded “Excellence in Technical Production” for three years in a row and “First Place” in Miami-Dade County Fair's photo restoration competition in 2016. Currently, Delaila’s GPA is at a 3.783, while her weighted GPA is 4.429. While attending MAS 6-12, Delaila has found a passion for graphic designing and plans to open an advertising agency. When Delaila thinks of her future, she thinks of attending Savannah College of Art and Design, Perdue, or Santa Fe Art and Design University. The fields of study that relate to her projects include the study of graphic design, advertising, digital animation, and marketing. No matter the challenge given at hand Delaila strives for the best and is open to learning. She takes criticism as a means to improve.&nbsp;",
-          "text1": "",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
-          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
-          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>"
+          "title": "BIOGRAPHY",
+          "text": "<span style=\"font-style: normal;\">As a Digital Media Design student at Miami Arts Studio 6-12, Delaila Garcia aspires to be a Graphic Designer and a future business owner. Throughout her years at MAS 6-12, she has been industry certified in Adobe Illustrator as well as awarded “Excellence in Technical Production” for three years in a row and “First Place” in Miami-Dade County Fair's photo restoration competition in 2016. Currently, Delaila’s GPA is at a 3.783, while her weighted GPA is 4.429. While attending MAS 6-12, Delaila has found a passion for graphic designing and plans to open an advertising agency. When Delaila thinks of her future, she thinks of attending Savannah College of Art and Design, Perdue, or Santa Fe Art and Design University. The fields of study that relate to her projects include the study of graphic design, advertising, digital animation, and marketing. No matter the challenge given at hand Delaila strives for the best and is open to learning. She takes criticism as a means to improve.</span>",
+          "form": {
+            "action": "dgarcia@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H3": {
+              "color": "#fac51c"
+            }
+          }
         },
         {
           "_styles": {
@@ -240,7 +246,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#4acece",
+              "color": "#fac51c",
               "font-size": "48px",
               "text-align": "center"
             }
@@ -256,7 +262,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -279,41 +285,23 @@
             "Extension"
           ],
           "_name": "extFeatures3",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#fac51c !important"
-            },
-            ".wraper": {
-              "border-color": "#fac51c !important"
-            },
-            "H4": {
-              "color": "#4acece"
-            },
-            ".card-subtitle": {
-              "color": "#fac51c",
-              "font-size": "18px"
-            },
-            "P": {
-              "color": "#4acece"
-            }
-          },
-          "_anchor": "extFeatures3-26",
+          "_anchor": "extFeatures3-2r",
           "_params": {
             "iconsBgColor": "#fac51c",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1656.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures3_bg.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#4acece",
+            "overlayOpacity": 0.8,
+            "overlayColor": "#222",
             "columns": "4",
             "showImages": true,
             "showTitles": true,
@@ -325,16 +313,16 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "institution",
-              "family": "FontAwesome",
+              "name": "school",
+              "family": "icon54-v2",
               "active": true,
-              "link": "",
-              "size": 0,
+              "link": "#",
+              "size": "90",
               "color": "#fac51c",
               "newWindow": false
             }
           },
-          "title1": "Attend a Four Year Institute&nbsp;",
+          "title1": "Attend a Four Year Institute&nbsp;<br>",
           "subtitle1": "(2018-2022)",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -342,11 +330,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "mortar-board",
-              "family": "FontAwesome",
+              "name": "social-school",
+              "family": "Material-Design-Icons",
               "active": true,
-              "link": "",
-              "size": 0,
+              "link": "#",
+              "size": "90",
               "color": "#fac51c",
               "newWindow": false
             }
@@ -359,12 +347,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "desktop",
-              "family": "FontAwesome",
+              "name": "briefcase",
+              "family": "et-line",
               "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#fac51c",
+              "link": "#",
+              "size": "90",
+              "color": "#c39f76",
               "newWindow": false
             }
           },
@@ -376,19 +364,34 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "building-o",
-              "family": "FontAwesome",
+              "name": "linegraph",
+              "family": "et-line",
               "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#fac51c",
+              "link": "#",
+              "size": "90",
+              "color": "#c39f76",
               "newWindow": false
             }
           },
           "title4": "Branch off &amp; Create My Agency",
           "subtitle4": "(2034)",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#fac51c !important"
+            },
+            ".wraper": {
+              "border-color": "#fac51c !important"
+            },
+            ".card-subtitle": {
+              "font-size": "18px",
+              "color": "#4acece"
+            },
+            "H4": {
+              "color": "#4acece"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -401,20 +404,21 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "20px",
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             "H4": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#4acece"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "text-align": "center"
             }
           },
           "_anchor": "extFeatures11-2i",
           "_params": {
-            "blocks": "7",
+            "blocks": "8",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": false,
@@ -427,8 +431,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#28bebe",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showSubtitle": false,
             "showDates": false
@@ -436,29 +440,29 @@
           "mainTitle": "ACHIEVEMENTS",
           "mainSubtitle": "",
           "date1": "1 January 2016",
-          "title1": "<span style=\"font-weight: normal;\">Excellence for Technology Production</span><br><span style=\"font-weight: normal;\"> (Three Years Straight)</span>",
+          "title1": "Excellence for Technology Production<br><span style=\"font-weight: normal;\"> (Three Years Straight)</span>",
           "text1": "",
           "date2": "2 Ferbuary 2016",
-          "title2": "<span style=\"font-weight: normal;\">Member of National Honor Society </span><br><span style=\"font-weight: normal;\">(Since 2016)</span>",
+          "title2": "Member of National Honor Society <br><span style=\"font-weight: normal;\">(Since 2016)</span>",
           "text2": "",
           "date3": "3 March 2016",
-          "title3": "<span style=\"font-weight: normal;\">Industry Certified in Illustrator CC</span><br><span style=\"font-weight: normal;\">(2016)</span>",
+          "title3": "Industry Certified in Illustrator CC<br><span style=\"font-weight: normal;\">(2016)</span>",
           "text3": "",
           "date4": "4 April 2016",
-          "title4": "<span style=\"font-weight: normal;\">Completion of Girls Who Code<br>Summer Immersion Program<br> (Summer 2016)</span>",
+          "title4": "Completion of Girls Who Code<br>Summer Immersion Program<br><span style=\"font-weight: normal;\"> (Summer 2016)</span>",
           "text4": "",
           "date5": "5 May 2016",
-          "title5": "<span style=\"font-weight: normal;\">President of Miami Arts Studio 6-12</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Girls Who Code Club</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">(Since Fall 2016)</span>",
+          "title5": "President of Miami Arts Studio 6-12<br>Girls Who Code Club<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">(Since Fall 2016)</span>",
           "text5": "",
           "date6": "6 June 2016",
-          "title6": "<span style=\"font-weight: normal;\">Superior Honor Roll</span><br><span style=\"font-weight: normal;\">(Fall 2016)</span>",
+          "title6": "Superior Honor Roll<br><span style=\"font-weight: normal;\">(Fall 2016)</span>",
           "text6": "",
           "date7": "7 July 2016",
-          "title7": "<span style=\"font-weight: normal;\">Member of Science National Honor Society<br>(Member since 2017)</span>",
+          "title7": "Member of Science National Honor Society<br><span style=\"font-weight: normal;\">(Member since 2017)</span>",
           "text7": "",
           "date8": "8 August 2016",
-          "title8": "8. Smart Watch",
-          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "title8": "Attend Savannah College of Art &amp; Design<br>Rising Star Program<span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">(Summer 2017)</span><br>",
+          "text8": "",
           "date9": "9 September 2016",
           "title9": "9. Design out of the box",
           "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -477,6 +481,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
             }
           },
           "_tags": [
@@ -493,8 +500,8 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#25cfcf"
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000"
           },
           "text": "DYG DESIGNS",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -519,7 +526,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -527,7 +534,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x120-84.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -562,7 +569,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1301,7 +1308,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1428,7 +1435,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1436,7 +1443,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x120-84.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1555,6 +1562,11 @@
             "Extension"
           ],
           "_name": "extForm1",
+          "_styles": {
+            "H2": {
+              "color": "#4acece"
+            }
+          },
           "_anchor": "extForm1-2p",
           "_params": {
             "paddingTop": "4",
@@ -1562,7 +1574,7 @@
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1579,7 +1591,7 @@
             "showSubtitle": false,
             "showText": false,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-warning\">RESUME</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">RESUME</a>"
           },
           "media": {
             "image": {
@@ -1652,12 +1664,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
-          "_styles": {
-            "H2": {
-              "color": "#4acece"
-            }
-          }
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
         },
         {
           "_tags": [
@@ -1672,14 +1679,14 @@
               "color": "#4acece"
             }
           },
-          "_anchor": "contacts1-11",
+          "_anchor": "contacts1-j",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1722,7 +1729,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2098,7 +2105,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2141,7 +2148,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

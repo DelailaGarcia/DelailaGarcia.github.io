@@ -708,19 +708,19 @@ h6,
 }
 #ext_menu-12 .link[aria-expanded="true"],
 #ext_menu-12 .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #ext_menu-12 .nav-dropdown-sm .link:focus,
 #ext_menu-12 .nav-dropdown-sm .link:hover,
 #ext_menu-12 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-12 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #ext_menu-12 .navbar,
 #ext_menu-12 .nav-dropdown-sm,
 #ext_menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-12 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #ext_menu-12 .bg-color.transparent .link {
   color: #4acece;
@@ -737,56 +737,59 @@ h6,
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #f3c649!important;
 }
-#extAccordion3-25 H4 {
-  color: #4acece;
-  font-size: 17px;
+#header1-2t .mbr-section-title {
+  color: #000000;
+}
+#extHeader16-2w P {
   text-align: left;
+}
+#extHeader16-2w SPAN {
   font-family: 'Raleway', sans-serif;
 }
-#extAccordion3-25 H1 {
+#extHeader16-2w H3 {
   color: #fac51c;
-  text-align: left;
 }
 #msg-box8-27 .mbr-section-title,
 #msg-box8-27 p {
   color: #fff;
 }
 #msg-box8-27 .mbr-section-title {
-  color: #4acece;
+  color: #fac51c;
   font-size: 48px;
   text-align: center;
 }
-#extFeatures3-26 .mbr-iconfont-features4 {
+#extFeatures3-2r .mbr-iconfont-features4 {
   color: #fac51c !important;
 }
-#extFeatures3-26 .wraper {
+#extFeatures3-2r .wraper {
   border-color: #fac51c !important;
 }
-#extFeatures3-26 H4 {
+#extFeatures3-2r .card-subtitle {
+  font-size: 18px;
   color: #4acece;
 }
-#extFeatures3-26 .card-subtitle {
-  color: #fac51c;
-  font-size: 18px;
-}
-#extFeatures3-26 P {
+#extFeatures3-2r H4 {
   color: #4acece;
 }
 #extFeatures11-2i SPAN {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
-  color: #ffffff;
+  color: #fac51c;
 }
 #extFeatures11-2i H4 {
   font-family: 'Raleway', sans-serif;
+  color: #4acece;
 }
 #extFeatures11-2i .mbr-section-title {
-  color: #ffffff;
+  color: #fac51c;
   text-align: center;
 }
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
   color: #fff;
+}
+#social-buttons4-g .mbr-section-title {
+  color: #fac51c;
 }
 #contacts1-c P {
   color: #fac51c;
@@ -1018,10 +1021,10 @@ h6,
 #extForm1-2p H2 {
   color: #4acece;
 }
-#contacts1-11 P {
+#contacts1-j P {
   color: #fac51c;
 }
-#contacts1-11 STRONG {
+#contacts1-j STRONG {
   color: #4acece;
 }
 #footer1-1i P {
