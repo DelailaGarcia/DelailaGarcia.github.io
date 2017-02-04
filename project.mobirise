@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "index.html",
+    "currentPage": "microsoft.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 105,
+    "uniqCompNum": 130,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolioGallery.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -585,6 +585,44 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "CREDENTIALS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -600,13 +638,13 @@
               "font-size": "16px"
             },
             ".navbar-toggler": {
-              "color": "#45bcbc"
+              "color": "#4acece"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#45bcbc"
+              "background-color": "#4acece"
             },
             ".link, .dropdown-item": {
-              "color": "#45bcbc"
+              "color": "#4acece"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -618,16 +656,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#45bcbc",
+              "color": "#4acece",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -641,12 +679,12 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-10",
+          "_anchor": "ext_menu-12",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#45bcbc",
+            "fontColor": "#4acece",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -658,7 +696,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-42.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -672,45 +710,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolioGallery.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"#\">RESUME</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "32px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-17",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#4acece",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "CREDENTIALS",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -719,7 +719,7 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "color": "#4acece"
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box1-16",
@@ -729,7 +729,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -769,7 +769,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -789,14 +789,14 @@
         {
           "_styles": {
             ".card-subtitle": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             ".iconbox": {
-              "background-color": "#4acece",
-              "border-color": "#4acece"
+              "background-color": "#fac51c",
+              "border-color": "#fac51c"
             },
             "H4": {
-              "color": "#fac51c"
+              "color": "#4acece"
             }
           },
           "_tags": [
@@ -805,13 +805,13 @@
           "_name": "features4",
           "_anchor": "features4-1a",
           "_params": {
-            "iconsBgColor": "#4acece",
+            "iconsBgColor": "#fac51c",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -947,7 +947,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x13330.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -972,24 +972,27 @@
           "_name": "features2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#4acece"
+              "background-color": "#000000"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#fac51c"
+              "color": "#4acece"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#fac51c"
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#4acece"
             }
           },
           "_anchor": "features2-1d",
           "_params": {
-            "columnsColor": "#4acece",
+            "columnsColor": "#000000",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1014,14 +1017,14 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#fac51c",
               "newWindow": false
             }
           },
           "title1": "SAT SCORES",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "January 21, 2017 : In Progress",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">REPORT</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">REPORT</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -1030,7 +1033,8 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#fac51c"
             }
           },
           "title2": "ACT SCORES",
@@ -1115,7 +1119,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1139,7 +1143,7 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             "H4": {
               "color": "#4acece"
@@ -1152,7 +1156,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1274,7 +1278,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1324,7 +1328,7 @@
           "_styles": {
             "H3": {
               "font-size": "20px",
-              "color": "#4acece"
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box1-1k",
@@ -1334,7 +1338,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1360,7 +1364,10 @@
           "_styles": {
             "H3": {
               "font-size": "20px",
-              "color": "#4acece"
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box1-1n",
@@ -1370,7 +1377,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1393,6 +1400,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
             }
           },
           "_tags": [
@@ -1409,8 +1419,8 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#4acece"
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000"
           },
           "text": "DYG DESIGNS",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1482,13 +1492,13 @@
               "font-size": "16px"
             },
             ".navbar-toggler": {
-              "color": "#45bcbc"
+              "color": "#4acece"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#45bcbc"
+              "background-color": "#4acece"
             },
             ".link, .dropdown-item": {
-              "color": "#45bcbc"
+              "color": "#4acece"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1500,16 +1510,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#45bcbc",
+              "color": "#4acece",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1523,12 +1533,12 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-10",
+          "_anchor": "ext_menu-12",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#45bcbc",
+            "fontColor": "#4acece",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1540,7 +1550,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-42.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1554,7 +1564,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolioGallery.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1570,12 +1580,12 @@
           "_anchor": "extForm1-2p",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "iconsColor": "#333333",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "/addons/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1739,9 +1749,10 @@
         }
       ]
     },
-    "portfolioGallery.html": {
+    "adobeIllustrator.html": {
       "settings": {
-        "title": "Adobe Illustrator CC"
+        "title": "Adobe Illustrator",
+        "meta_descr": "Site Builder Description"
       },
       "components": [
         {
@@ -1760,13 +1771,13 @@
               "font-size": "16px"
             },
             ".navbar-toggler": {
-              "color": "#45bcbc"
+              "color": "#4acece"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#45bcbc"
+              "background-color": "#4acece"
             },
             ".link, .dropdown-item": {
-              "color": "#45bcbc"
+              "color": "#4acece"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1778,16 +1789,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#45bcbc",
+              "color": "#4acece",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1801,12 +1812,12 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-10",
+          "_anchor": "ext_menu-2x",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#45bcbc",
+            "fontColor": "#4acece",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1818,7 +1829,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-42.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1832,7 +1843,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolioGallery.html\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"#\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -1840,7 +1851,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#fac51c",
               "font-size": "32px"
             }
           },
@@ -1848,13 +1859,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1p",
+          "_anchor": "msg-box8-31",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1862,13 +1873,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#4acece",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "PORTFOLIO<br>",
+          "title": "ADOBE ILLUSTRATOR",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -1877,211 +1888,94 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"true\" style=\"padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    <div class=\"mbr-gallery-filter container gallery-filter-active\">\n        <ul>\n            <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"26\">All</li>\n        </ul>\n    </div>\n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/7-photo-restoration-2000x750-800x300.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Illustrator CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/8-blue-print-2000x2002-800x800.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/11-outside-pcv-2000x1545-800x618.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/13-inside-pcv-2000x1545-800x618.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Sketches\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/1-skull-2000x1540-800x616.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/musical-tv-build-2000x1545-800x618.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/14-wood-marquee-2000x2666-800x1066.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x3037-800x1214.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Illustrator CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"8\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/6-postcard-2000x660-800x264.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"9\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2958-800x1183.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Illustrator CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"10\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/poster-2000x2962-800x1184.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Photoshop CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"11\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/7-photo-restoration-2000x750-800x300.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Illustrator CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"12\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/3-personal-logo-2000x1883-800x753.png\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Sketches\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"13\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/maverick-logo-2000x1998-800x799.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Illustrator CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"14\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/4-maverick-logo-2000x1545-800x618.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Adobe Illustrator CC\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"15\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/5-mdcps-logo-1-2000x2000-800x800.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Scratch Code\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"16\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/1-a-juke-box-2000x1250-800x500.png\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Sketches\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"17\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/2-peace-on-earth-2000x1333-800x533.jpg\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-tags=\"Scratch Code\" data-video-url=\"false\">\n                        <div href=\"#lb-gallery4-1r\" data-slide-to=\"18\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/1-a-2000x1250-800x500.png\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery4-1r\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" class=\" active\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"7\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"8\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"9\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"10\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"11\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"12\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"13\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"14\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"15\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"16\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"17\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery4-1r\" data-slide-to=\"18\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/7-photo-restoration-2000x750.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/8-blue-print-2000x2002.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/11-outside-pcv-2000x1545.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/13-inside-pcv-2000x1545.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/1-skull-2000x1540.jpg\">\n                        </div><div class=\"carousel-item active\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/musical-tv-build-2000x1545.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/14-wood-marquee-2000x2666.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x3037.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/6-postcard-2000x660.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2958.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/poster-2000x2962.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/7-photo-restoration-2000x750.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/3-personal-logo-2000x1883.png\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/maverick-logo-2000x1998.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/4-maverick-logo-2000x1545.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/5-mdcps-logo-1-2000x2000.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/1-a-juke-box-2000x1250.png\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/2-peace-on-earth-2000x1333.jpg\">\n                        </div><div class=\"carousel-item\">\n                            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/1-a-2000x1250.png\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery4-1r\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery4-1r\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "LI {\n\tcolor: #fac51c;\n}\n",
-          "_customTemplate": true,
-          "_styles": {
-            "LI": {
-              "color": "#fac51c"
-            }
-          },
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "images": [
               {
-                "tags": "Adobe Photoshop CC",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-photo-restoration-2000x750-800x300.jpg",
-                "image": "@PROJECT_PATH@/assets/images/7-photo-restoration-2000x750.jpg",
-                "caption": "Miami-Dade County Fair Photo Restoration Competition<br>(2016)<br>Won 1st Place.",
-                "active": false
-              },
-              {
-                "tags": "Adobe Illustrator CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2002-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2002.jpg",
-                "caption": "Kayak Blue Print<br>Created using Adobe Illustrator CC.",
-                "active": false
-              },
-              {
-                "tags": "Adobe Photoshop CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11-outside-pcv-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/11-outside-pcv-2000x1545.jpg",
-                "caption": "MAS 6-12 Orchestra Outside Cover Pop Concert Program (2017)<br>Created using Adobe Photoshop CC.",
-                "active": false
-              },
-              {
-                "tags": "Adobe Photoshop CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13-inside-pcv-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/13-inside-pcv-2000x1545.jpg",
-                "caption": "MAS 6-12 Orchestra Inside Cover Pop Concert Program (2017)<br>Created using Adobe Photoshop CC.<br>",
-                "active": false
-              },
-              {
-                "tags": "Sketches",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-skull-2000x1540-800x616.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-skull-2000x1540.jpg",
-                "caption": "Skull Sketch (2015)<br>Hand Drawn.",
-                "active": false
-              },
-              {
-                "tags": "Adobe Photoshop CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/musical-tv-build-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/musical-tv-build-2000x1545.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Adobe Photoshop CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14-wood-marquee-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14-wood-marquee-2000x2666.jpg",
-                "caption": "Miami Arts Studio 6-12 Marquee<br>Created using Adobe Photoshop CC.<br>",
-                "active": false
-              },
-              {
-                "tags": "Adobe Photoshop CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x3037-800x1214.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x3037.jpg",
-                "caption": "Miami Arts Studio 6-12 Poster (2014)<br>Advertisment choosen for recruiting.<br>Created using Adobe Photoshop CC.<br>",
-                "active": false
-              },
-              {
-                "tags": "Adobe Illustrator CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-postcard-2000x660-800x264.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x660.jpg",
-                "caption": "Austria Postcard (2015)<br>Created using Adobe Illustrator CC.",
-                "active": false
-              },
-              {
-                "tags": "Adobe Photoshop CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2958-800x1183.jpg",
-                "image": "@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2958.jpg",
-                "caption": "\"If Walls Could Talk\" Poster<br>Created using Adobe Photoshop CC.",
-                "active": false
-              },
-              {
-                "tags": "Adobe Illustrator CC",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poster-2000x2962.jpg",
-                "caption": "MAS 6-12 Orchestra Pop Concert Poster (2017)<br>Created using Adobe Illustrator CC.<br>",
                 "active": true
               },
               {
-                "tags": "Adobe Illustrator CC",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-personal-logo-2000x1883-800x753.png",
-                "image": "@PROJECT_PATH@/assets/images/3-personal-logo-2000x1883.png",
-                "caption": "Personal Logo (2016)<br>Created using Adobe Illustrator CC.<br>",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Sketches",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maverick-logo-2000x1998-800x799.jpg",
-                "image": "@PROJECT_PATH@/assets/images/maverick-logo-2000x1998.jpg",
-                "caption": "Miami Arts Studio 6-12 Maverick Mascot Sketch (2016)<br>Hand Drawn.",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Adobe Illustrator CC",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-maverick-logo-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-maverick-logo-2000x1545.jpg",
-                "caption": "Miami Arts Studio 6-12 Maverick Mascot Entry (2016)<br>Created using Adobe Illustrator CC.<br>",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Adobe Illustrator CC",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-mdcps-logo-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-mdcps-logo-1-2000x2000.jpg",
-                "caption": "MDCPS Logo Design Entry (2017)<br>Created using Adobe Illustrator CC.",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Scratch Code",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-a-juke-box-2000x1250-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/1-a-juke-box-2000x1250.png",
-                "caption": "Panic! @ the Disco Juke Box (2016)<br>Coded with Skratch.",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Sketches",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-peace-on-earth-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-peace-on-earth-2000x1333.jpg",
-                "caption": "Peace on Earth (2017)<br>Digitally Drawn.",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Scratch Code",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-a-2000x1250-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/1-a-2000x1250.png",
-                "caption": "Random Generator Game (2016)<br>Coded with Skratch.",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
               }
             ],
-            "spacing": "1",
-            "showText": true,
-            "filter": true,
-            "bgColor": "#ffffff",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery4-1r",
+          "_anchor": "gallery3-30",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -2098,7 +1992,7 @@
               "color": "#4acece"
             }
           },
-          "_anchor": "contacts1-j",
+          "_anchor": "contacts1-2y",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
@@ -2113,7 +2007,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x120-84.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2141,7 +2035,1219 @@
               "color": "#4acece"
             }
           },
-          "_anchor": "footer1-1i",
+          "_anchor": "footer1-2z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Delaila Y. Garcia or DYG Designs."
+        }
+      ]
+    },
+    "adobePhotoshop.html": {
+      "settings": {
+        "title": "Adobe Photoshop",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#4acece"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#4acece"
+            },
+            ".link, .dropdown-item": {
+              "color": "#4acece"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#4acece",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-32",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#4acece",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-33",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ADOBE PHOTOSHOP",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-34",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "STRONG": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "contacts1-35",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text3": "<br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "footer1-36",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Delaila Y. Garcia or DYG Designs."
+        }
+      ]
+    },
+    "123D.html": {
+      "settings": {
+        "title": "123D",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#4acece"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#4acece"
+            },
+            ".link, .dropdown-item": {
+              "color": "#4acece"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#4acece",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-37",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#4acece",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-38",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "123D",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-39",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "STRONG": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "contacts1-3a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text3": "<br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "footer1-3b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Delaila Y. Garcia or DYG Designs."
+        }
+      ]
+    },
+    "finalCutPro.html": {
+      "settings": {
+        "title": "Final Cut Pro",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#4acece"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#4acece"
+            },
+            ".link, .dropdown-item": {
+              "color": "#4acece"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#4acece",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3c",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#4acece",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3d",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "FINAL CUT PRO",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-3e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "STRONG": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "contacts1-3f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text3": "<br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "footer1-3g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Delaila Y. Garcia or DYG Designs."
+        }
+      ]
+    },
+    "microsoft.html": {
+      "settings": {
+        "title": "Microsoft",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#4acece"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#4acece"
+            },
+            ".link, .dropdown-item": {
+              "color": "#4acece"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#4acece",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3h",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#4acece",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Delaila Y. Garcia</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePhotoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"finalCutPro.html\">Final Cut Pro</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss Its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Gallery</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Miguel Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Desantino</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Priya Patel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Internship Mentor</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">RESUME</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3i",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "MICROSOFT",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-3j",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "STRONG": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "contacts1-3k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text3": "<br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "footer1-3l",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
