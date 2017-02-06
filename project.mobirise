@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "index.html",
+    "currentPage": "discussIts.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 139,
+    "uniqCompNum": 144,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1862,13 +1862,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-31",
+          "_anchor": "msg-box8-3v",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2165,13 +2165,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-33",
+          "_anchor": "msg-box8-3w",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2468,13 +2468,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-38",
+          "_anchor": "msg-box8-3x",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2771,13 +2771,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-3d",
+          "_anchor": "msg-box8-3y",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3074,13 +3074,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-3i",
+          "_anchor": "msg-box8-3z",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
