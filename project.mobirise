@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "credentials.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 136,
+    "uniqCompNum": 137,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -134,6 +134,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-2t",
           "_params": {
             "parallax": true,
@@ -156,12 +161,7 @@
           },
           "title": "DELAILA Y. GARCIA",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -169,12 +169,24 @@
             "Extension"
           ],
           "_name": "extHeader16",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H3": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "extHeader16-2w",
           "_params": {
             "imageSize": 60,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader16_bg.jpg",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extHeader16_bg.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -226,19 +238,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "H3": {
-              "color": "#fac51c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
           "_styles": {
@@ -285,11 +285,11 @@
             "Extension"
           ],
           "_name": "extFeatures3",
-          "_anchor": "extFeatures3-2r",
+          "_anchor": "extFeatures3-3s",
           "_params": {
             "iconsBgColor": "#fac51c",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures3_bg.jpg",
@@ -318,13 +318,13 @@
               "active": true,
               "link": "#",
               "size": "90",
-              "color": "#fac51c",
+              "color": "#c39f76",
               "newWindow": false
             }
           },
-          "title1": "Attend a Four Year Institute&nbsp;<br>",
+          "title1": "<span style=\"font-weight: normal;\">Attend a Four Year Institute</span>&nbsp;",
           "subtitle1": "(2018-2022)",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "After Delaila graduates from Miami Arts Studio 6-12 in 2018, she plans to attend a four year institute, like Savannah College of Art and Design or University of Central Florida. Delaila is going to double major in Graphic Design and Advertising as well as a minor in Business. With her degrees she plans to work for an Advertising Agency.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -335,13 +335,13 @@
               "active": true,
               "link": "#",
               "size": "90",
-              "color": "#fac51c",
+              "color": "#c39f76",
               "newWindow": false
             }
           },
-          "title2": "Get a Master's &amp; Doctoral Degree",
+          "title2": "<span style=\"font-weight: normal;\">Get a Master's &amp; Doctoral Degree</span>",
           "subtitle2": "(2018-2024)",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "caption2": "Delaila wants to graduate with two Master's degrees; one in Advertising and the other in Graphic Design. Afterwards, she plans to get a Doctoral Degree in Advertising or Business.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -356,9 +356,9 @@
               "newWindow": false
             }
           },
-          "title3": "Work in an Elite Advertising Agency",
+          "title3": "<span style=\"font-weight: normal;\">Work in an Elite Advertising Agency</span>",
           "subtitle3": "(2024-2034)",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Once Delaila gets her degrees, she plans to work for an Elite Advertising Agency to gain experience. Also, she wants gain connections and clients. ",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -373,9 +373,9 @@
               "newWindow": false
             }
           },
-          "title4": "Branch off &amp; Create My Agency",
+          "title4": "<span style=\"font-weight: normal;\">Branch off &amp; Create My Agency</span>",
           "subtitle4": "(2034)",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "A few years after gaining her clients and experience Delaila plans to create her own Advertising Agency.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             ".mbr-iconfont-features4": {
@@ -383,6 +383,9 @@
             },
             ".wraper": {
               "border-color": "#fac51c !important"
+            },
+            "P": {
+              "text-align": "left"
             },
             ".card-subtitle": {
               "font-size": "18px",
@@ -1865,7 +1868,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2168,7 +2171,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2471,7 +2474,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2774,7 +2777,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3077,7 +3080,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3365,6 +3368,14 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#4acece"
+            },
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3p",
           "_params": {
             "paddingTop": "4",
@@ -3388,21 +3399,18 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"DelailaGarcia.github.io/Discuss IT Topic 6.pdf\" data-toolbar=\"-mbrBtnMove\">PDF<br></a>",
           "text": "Febraury 01, 2017",
-          "title": "Discuss It 6",
-          "_styles": {
-            "H3": {
-              "color": "#4acece"
-            },
-            "H2": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "Discuss It 6"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3q",
           "_params": {
             "paddingTop": "4",
@@ -3426,18 +3434,18 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "February 00, 2017",
-          "title": "Discuss It 7",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "Discuss It 7"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3r",
           "_params": {
             "paddingTop": "4",
@@ -3461,12 +3469,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "February 00, 2017",
-          "title": "Discuss It 8",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "Discuss It 8"
         },
         {
           "_tags": [

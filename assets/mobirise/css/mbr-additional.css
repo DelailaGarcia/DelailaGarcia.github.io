@@ -758,17 +758,20 @@ h6,
   font-size: 48px;
   text-align: center;
 }
-#extFeatures3-2r .mbr-iconfont-features4 {
+#extFeatures3-3s .mbr-iconfont-features4 {
   color: #fac51c !important;
 }
-#extFeatures3-2r .wraper {
+#extFeatures3-3s .wraper {
   border-color: #fac51c !important;
 }
-#extFeatures3-2r .card-subtitle {
+#extFeatures3-3s P {
+  text-align: left;
+}
+#extFeatures3-3s .card-subtitle {
   font-size: 18px;
   color: #4acece;
 }
-#extFeatures3-2r H4 {
+#extFeatures3-3s H4 {
   color: #4acece;
 }
 #extFeatures11-2i SPAN {
