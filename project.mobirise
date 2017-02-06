@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "discussIts.html",
+    "currentPage": "adobeIllustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1868,7 +1868,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13339.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
