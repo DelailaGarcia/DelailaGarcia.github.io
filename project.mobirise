@@ -1868,7 +1868,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2171,7 +2171,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2474,7 +2474,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2777,7 +2777,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3080,7 +3080,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
