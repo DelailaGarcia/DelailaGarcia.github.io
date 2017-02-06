@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -285,14 +285,32 @@
             "Extension"
           ],
           "_name": "extFeatures3",
-          "_anchor": "extFeatures3-3s",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#fac51c !important"
+            },
+            ".wraper": {
+              "border-color": "#fac51c !important"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            ".card-subtitle": {
+              "font-size": "18px",
+              "color": "#4acece"
+            },
+            "H4": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "extFeatures3-3t",
           "_params": {
             "iconsBgColor": "#fac51c",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures3_bg.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extFeatures3_bg_2.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -376,25 +394,7 @@
           "title4": "<span style=\"font-weight: normal;\">Branch off &amp; Create My Agency</span>",
           "subtitle4": "(2034)",
           "caption4": "A few years after gaining her clients and experience Delaila plans to create her own Advertising Agency.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#fac51c !important"
-            },
-            ".wraper": {
-              "border-color": "#fac51c !important"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            ".card-subtitle": {
-              "font-size": "18px",
-              "color": "#4acece"
-            },
-            "H4": {
-              "color": "#4acece"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1868,7 +1868,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2171,7 +2171,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2474,7 +2474,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2777,7 +2777,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3080,7 +3080,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
