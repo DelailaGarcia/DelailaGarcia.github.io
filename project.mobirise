@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 138,
+    "uniqCompNum": 139,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -278,6 +278,123 @@
           "title": "GOALS",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures3",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#fac51c !important"
+            },
+            ".wraper": {
+              "border-color": "#fac51c !important"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            ".card-subtitle": {
+              "font-size": "18px",
+              "color": "#4acece"
+            },
+            "H4": {
+              "color": "#4acece"
+            }
+          },
+          "_anchor": "extFeatures3-3u",
+          "_params": {
+            "iconsBgColor": "#fac51c",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extFeatures3_bg_2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "school",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "#",
+              "size": "90",
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Attend a Four Year Institute</span>&nbsp;",
+          "subtitle1": "(2018-2022)",
+          "caption1": "After Delaila graduates from Miami Arts Studio 6-12 in 2018, she plans to attend a four year institute, like Savannah College of Art and Design or University of Central Florida. Delaila is going to double major in Graphic Design and Advertising as well as a minor in Business. With her degrees she plans to work for an Advertising Agency.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "social-school",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "#",
+              "size": "90",
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">Get a Master's &amp; Doctoral Degree</span>",
+          "subtitle2": "(2018-2024)",
+          "caption2": "Delaila wants to graduate with two Master's degrees; one in Advertising and the other in Graphic Design. Afterwards, she plans to get a Doctoral Degree in Advertising or Business.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": "90",
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "title3": "<span style=\"font-weight: normal;\">Work in an Elite Advertising Agency</span>",
+          "subtitle3": "(2024-2034)",
+          "caption3": "Once Delaila gets her degrees, she plans to work for an Elite Advertising Agency to gain experience. Also, she wants gain connections and clients. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
+              "size": "90",
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "title4": "<span style=\"font-weight: normal;\">Branch off &amp; Create My Agency</span>",
+          "subtitle4": "(2034)",
+          "caption4": "A few years after gaining her clients and experience Delaila plans to create her own Advertising Agency.&nbsp;",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1751,7 +1868,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2054,7 +2171,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2357,7 +2474,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2660,7 +2777,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2963,7 +3080,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13336.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
