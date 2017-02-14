@@ -2528,7 +2528,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/9-classroom-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/9-classroom-2000x1428.jpg",
-                "caption": "Type caption here",
+                "caption": "Miami Arts Studio - Classroom 3D Recreation",
                 "active": true
               },
               {
@@ -2538,12 +2538,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10-car-copy-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/10-car-copy-2000x1428.jpg",
-                "caption": "Type caption here",
+                "caption": "Electric Trio - Futuristic 3D Car Model&nbsp;",
                 "active": false
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
