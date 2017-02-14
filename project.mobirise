@@ -1610,7 +1610,7 @@
             "image": {
               "active": true,
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/personal%20logo-2055x1935.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-2055x1935.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1868,7 +1868,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2195,6 +2195,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "12px"
+            }
+          },
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -2206,7 +2211,47 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/musical-tv-build-2-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/musical-tv-build-2-2000x2962.jpg",
-                "caption": "Sights &amp; Sounds of the 60's TV<br>",
+                "caption": "Miami Arts Studio - Sights &amp; Sounds of the 60's TV<br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-1-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-1-2000x2962.jpg",
+                "caption": "Miami Arts Studio - Orchestra Pop Concert Five Poster",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-the-wanting-of-two-desire-framework-copy-2000x1407-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17-the-wanting-of-two-desire-framework-copy-2000x1407.jpg",
+                "caption": "Miami Arts Studio - The Wanting of Two Desires<br>",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-photo-restoration-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-photo-restoration-2000x2962.jpg",
+                "caption": "Fair Restoration Compettition Piece- Won First Place",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pcv-program-2000x1407-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pcv-program-2000x1407.jpg",
+                "caption": "Miami Arts Studio - Orchestra Pop Concert Five Program",
                 "active": false
               },
               {
@@ -2216,55 +2261,28 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2962.jpg",
-                "caption": "If Walls Could Talk",
-                "active": true
+                "caption": "Miami Arts Studio - If Walls Could Talk",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17-the-wanting-of-two-desire-framework-copy-2000x1407-800x562.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17-the-wanting-of-two-desire-framework-copy-2000x1407.jpg",
-                "caption": "The Wanting of Two Desires<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x2962.jpg",
+                "caption": "Miami Arts Studio - Recruiting Advertising",
                 "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pcv-program-2000x1407-800x562.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pcv-program-2000x1407.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/14-wood-marquee-copy-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-wood-marquee-copy-2000x2962.jpg",
+                "caption": "Miami Arts Studio - Marquee",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -2277,12 +2295,7 @@
           },
           "_anchor": "gallery3-34",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
