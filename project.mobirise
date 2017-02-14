@@ -519,7 +519,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-c",
@@ -551,8 +557,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
-          "text2": "<strong>Contacts</strong><br>\nEmail: DGarcia@miamiartsstudio.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
         {
@@ -1438,7 +1444,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-z",
@@ -1470,8 +1482,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
-          "text2": "<strong>Contacts</strong><br>\nEmail: DGarcia@miamiartsstudio.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         }
       ]
@@ -1689,7 +1701,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-j",
@@ -1721,7 +1739,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
@@ -1969,10 +1987,16 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
-          "_anchor": "contacts1-2y",
+          "_anchor": "contacts1-3n",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
@@ -2001,7 +2025,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
@@ -2284,7 +2308,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-35",
@@ -2316,7 +2346,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
@@ -2587,7 +2617,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-3a",
@@ -2619,7 +2655,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
@@ -2890,7 +2926,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-3f",
@@ -2922,7 +2964,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
@@ -3193,7 +3235,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-3k",
@@ -3225,7 +3273,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
@@ -3470,7 +3518,13 @@
               "color": "#fac51c"
             },
             "STRONG": {
-              "color": "#4acece"
+              "color": "#4acece",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "B": {
+              "color": "#4acece",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts1-3n",
@@ -3502,7 +3556,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
+          "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
           "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
           "text3": "<br><br>"
         },
