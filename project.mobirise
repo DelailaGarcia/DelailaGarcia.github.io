@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "adobePhotoshop.html",
+    "currentPage": "adobeIllustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1924,7 +1924,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1934,7 +1934,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-1-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
