@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "adobePhotoshop.html",
+    "currentPage": "masterRecreation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3678,23 +3678,23 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0213-2000x1334-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/0213-2000x1334.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/215-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/215-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
-            "spacing": "3",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
