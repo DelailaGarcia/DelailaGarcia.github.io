@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "masterRecreation.html",
+    "currentPage": "adobePhotoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 150,
+    "uniqCompNum": 156,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -2196,16 +2196,92 @@
             "Theme"
           ],
           "_name": "gallery3",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
-            }
-          },
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "images": [],
-            "spacing": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-photo-restoration-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-photo-restoration-2000x2962.jpg",
+                "caption": "Photo Restoration - Won 1st Place in the Miami-Dade County Fair",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-wood-marquee-copy-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-wood-marquee-copy-2000x2962.jpg",
+                "caption": "Miami Arts Studio - Marquee",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15-mas-poster-delaila-garcia-2000x2962.jpg",
+                "caption": "Miami Arts Studio - Advertising Poster",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-wynwood-poster-final-2000x2962.jpg",
+                "caption": "If Walls Could Talk",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/musical-tv-build-2-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/musical-tv-build-2-2000x2962.jpg",
+                "caption": "Sights &amp; Sounds of the 60's",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-1-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-1-2000x2962.jpg",
+                "caption": "Miami Arts Studio Orchestra - Pop Concert 5 Poster&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pcv-program-2000x1407-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pcv-program-2000x1407.jpg",
+                "caption": "Miami Arts Studio Orchestra - <br>Pop Concert 5 Program",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-wanting-of-two-desire-framework-2000x1407-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/the-wanting-of-two-desire-framework-2000x1407.jpg",
+                "caption": "The Wanting of Two Desires",
+                "active": true
+              }
+            ],
+            "spacing": 1,
             "showText": true,
             "filter": false,
             "bgColor": "#000000",
@@ -2213,7 +2289,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-34",
+          "_anchor": "gallery3-4b",
           "articleLayout": false,
           "allItem": "All"
         },
