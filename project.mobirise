@@ -3694,7 +3694,7 @@
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "4",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
