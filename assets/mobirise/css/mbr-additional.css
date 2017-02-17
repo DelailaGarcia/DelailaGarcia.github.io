@@ -7,9 +7,6 @@
 
 
 
-
-
-
 body,
 input,
 textarea,
@@ -741,52 +738,17 @@ h6,
 #header1-2t .mbr-section-title {
   color: #000000;
 }
-#extHeader16-2w P {
-  text-align: left;
-}
-#extHeader16-2w SPAN {
-  font-family: 'Raleway', sans-serif;
-}
-#extHeader16-2w H3 {
-  color: #fac51c;
-}
-#msg-box8-27 .mbr-section-title,
-#msg-box8-27 p {
+#msg-box8-4p .mbr-section-title,
+#msg-box8-4p p {
   color: #fff;
 }
-#msg-box8-27 .mbr-section-title {
-  color: #fac51c;
+#msg-box8-4p .mbr-section-title {
+  color: #4acece;
   font-size: 48px;
   text-align: center;
 }
-#extFeatures3-3u .mbr-iconfont-features4 {
-  color: #fac51c !important;
-}
-#extFeatures3-3u .wraper {
-  border-color: #fac51c !important;
-}
-#extFeatures3-3u P {
-  text-align: left;
-}
-#extFeatures3-3u .card-subtitle {
-  font-size: 18px;
+#msg-box4-4o H3 {
   color: #4acece;
-}
-#extFeatures3-3u H4 {
-  color: #4acece;
-}
-#extFeatures11-2i SPAN {
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  color: #fac51c;
-}
-#extFeatures11-2i H4 {
-  font-family: 'Raleway', sans-serif;
-  color: #4acece;
-}
-#extFeatures11-2i .mbr-section-title {
-  color: #fac51c;
-  text-align: center;
 }
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
@@ -1671,5 +1633,141 @@ h6,
   font-size: 16px;
 }
 #footer1-44 P {
+  color: #4acece;
+}
+
+
+
+
+
+#ext_menu-4c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4c .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+#ext_menu-4c .navbar-toggler {
+  color: #4acece;
+}
+#ext_menu-4c .close-icon::before,
+#ext_menu-4c .close-icon::after {
+  background-color: #4acece;
+}
+#ext_menu-4c .link,
+#ext_menu-4c .dropdown-item {
+  color: #4acece;
+}
+#ext_menu-4c .link {
+  font-size: 0.75rem;
+}
+#ext_menu-4c .dropdown-item,
+#ext_menu-4c .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-4c .link:hover,
+#ext_menu-4c .dropdown-item:hover,
+#ext_menu-4c .link:focus,
+#ext_menu-4c .dropdown-item:focus {
+  color: #f3c649;
+}
+#ext_menu-4c .link[aria-expanded="true"],
+#ext_menu-4c .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-4c .nav-dropdown-sm .link:focus,
+#ext_menu-4c .nav-dropdown-sm .link:hover,
+#ext_menu-4c .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4c .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-4c .navbar,
+#ext_menu-4c .nav-dropdown-sm,
+#ext_menu-4c .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4c .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-4c .bg-color.transparent .link {
+  color: #4acece;
+  transition: none;
+}
+#ext_menu-4c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4c .bg-color.transparent.opened .link:hover,
+#ext_menu-4c .bg-color.transparent.opened .link:focus {
+  color: #f3c649;
+}
+#ext_menu-4c .link[aria-expanded="true"],
+#ext_menu-4c .dropdown-item[aria-expanded="true"] {
+  color: #f3c649!important;
+}
+#extHeader16-4e P {
+  text-align: left;
+}
+#extHeader16-4e SPAN {
+  font-family: 'Raleway', sans-serif;
+}
+#extHeader16-4e H3 {
+  color: #fac51c;
+}
+#msg-box8-4f .mbr-section-title,
+#msg-box8-4f p {
+  color: #fff;
+}
+#msg-box8-4f .mbr-section-title {
+  color: #fac51c;
+  font-size: 48px;
+  text-align: center;
+}
+#extFeatures3-4g .mbr-iconfont-features4 {
+  color: #fac51c !important;
+}
+#extFeatures3-4g .wraper {
+  border-color: #fac51c !important;
+}
+#extFeatures3-4g P {
+  text-align: left;
+}
+#extFeatures3-4g .card-subtitle {
+  font-size: 18px;
+  color: #4acece;
+}
+#extFeatures3-4g H4 {
+  color: #4acece;
+}
+#extFeatures11-4h SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #fac51c;
+}
+#extFeatures11-4h H4 {
+  font-family: 'Raleway', sans-serif;
+  color: #4acece;
+}
+#extFeatures11-4h .mbr-section-title {
+  color: #fac51c;
+  text-align: center;
+}
+#social-buttons4-4i .mbr-section-title,
+#social-buttons4-4i .btn-social {
+  color: #fff;
+}
+#social-buttons4-4i .mbr-section-title {
+  color: #fac51c;
+}
+#contacts1-4j P {
+  color: #fac51c;
+}
+#contacts1-4j STRONG {
+  color: #4acece;
+  font-family: 'Raleway', sans-serif;
+}
+#contacts1-4j B {
+  color: #4acece;
+  font-size: 16px;
+}
+#footer1-4k P {
   color: #4acece;
 }
