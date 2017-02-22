@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "introduction.html",
+    "currentPage": "masterRecreation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Delaila Y. Garcia",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -440,7 +440,7 @@
             }
           },
           "text1": "<b>Address</b><b><br></b><br>9059 SW 133rd CT,<br>Unit C, Miami, Fl, <br>33186",
-          "text2": "<strong>Contacts</strong><br>\nEmail: DelailaGarcia@DYGdesign.com<br>\nPhone: +1 (786) 340 - 7809<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: DGarcia@miamiartsstudio.com<br><br>",
           "text3": "<br><br>"
         },
         {
@@ -472,7 +472,7 @@
     },
     "credentials.html": {
       "settings": {
-        "title": "",
+        "title": "Credentials",
         "order": 3
       },
       "components": [
@@ -1373,7 +1373,8 @@
     },
     "contact.html": {
       "settings": {
-        "order": 4
+        "order": 4,
+        "title": "Contact"
       },
       "components": [
         {
@@ -1657,7 +1658,7 @@
     },
     "adobeIllustrator.html": {
       "settings": {
-        "title": "Adobe Illustrator",
+        "title": "Adobe Illustrator CC",
         "meta_descr": "Site Builder Description",
         "order": 5
       },
@@ -1816,7 +1817,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6-postcard-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x20006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x20002.jpg",
                 "caption": "Austria Postcard",
                 "active": false
               },
@@ -1826,7 +1827,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x20007.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x20003.jpg",
                 "caption": "Kayak Engine Blue print",
                 "active": false
               },
@@ -1944,7 +1945,7 @@
     },
     "adobePhotoshop.html": {
       "settings": {
-        "title": "Adobe Photoshop",
+        "title": "Adobe Photoshop CC",
         "meta_descr": "Site Builder Description",
         "order": 6
       },
@@ -3422,7 +3423,7 @@
     },
     "masterRecreation.html": {
       "settings": {
-        "title": "Adobe Photoshop",
+        "title": "Master Recreation",
         "meta_descr": "Site Builder Description",
         "order": 11
       },
@@ -3679,7 +3680,7 @@
     },
     "introduction.html": {
       "settings": {
-        "title": "",
+        "title": "Introduction",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
