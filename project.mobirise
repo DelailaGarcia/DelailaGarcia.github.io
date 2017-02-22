@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "introduction.html",
+    "currentPage": "adobeIllustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1817,7 +1817,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6-postcard-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x20004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x20006.jpg",
                 "caption": "Austria Postcard",
                 "active": false
               },
@@ -1827,8 +1827,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x20005.jpg",
-                "caption": "Kayak Engine Blue print",
+                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x20007.jpg",
+                "caption": "Kayak Engine Blue Print",
                 "active": false
               },
               {
