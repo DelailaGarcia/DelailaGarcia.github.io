@@ -480,6 +480,23 @@ h6,
 #header1-2t .mbr-section-title {
   color: #000000;
 }
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
+  text-align: center;
+}
+#content8-56 .mbr-section-title,
+#content8-56 p {
+  text-align: right;
+  color: #fff;
+}
+#content8-56 .mbr-section-title {
+  text-align: left;
+  color: #4acece;
+}
+#header3-57 .mbr-section-title,
+#header3-57 .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-4p .mbr-section-title,
 #msg-box8-4p p {
   color: #fff;
@@ -489,14 +506,11 @@ h6,
   font-size: 48px;
   text-align: center;
 }
-#msg-box4-4o H3 {
-  color: #4acece;
-}
-#social-buttons4-g .mbr-section-title,
-#social-buttons4-g .btn-social {
+#social-buttons4-4s .mbr-section-title,
+#social-buttons4-4s .btn-social {
   color: #fff;
 }
-#social-buttons4-g .mbr-section-title {
+#social-buttons4-4s .mbr-section-title {
   color: #fac51c;
 }
 #contacts1-c P {
@@ -664,11 +678,11 @@ h6,
 #msg-box1-1n SPAN {
   color: #ffffff;
 }
-#social-buttons4-14 .mbr-section-title,
-#social-buttons4-14 .btn-social {
+#social-buttons4-4v .mbr-section-title,
+#social-buttons4-4v .btn-social {
   color: #fff;
 }
-#social-buttons4-14 .mbr-section-title {
+#social-buttons4-4v .mbr-section-title {
   color: #fac51c;
 }
 #contacts1-z P {
@@ -749,6 +763,13 @@ h6,
 }
 #extForm1-2p H2 {
   color: #4acece;
+}
+#social-buttons4-53 .mbr-section-title,
+#social-buttons4-53 .btn-social {
+  color: #fff;
+}
+#social-buttons4-53 .mbr-section-title {
+  color: #fac51c;
 }
 #contacts1-j P {
   color: #fac51c;
@@ -837,6 +858,13 @@ h6,
   color: #fac51c;
   font-size: 32px;
 }
+#social-buttons4-52 .mbr-section-title,
+#social-buttons4-52 .btn-social {
+  color: #fff;
+}
+#social-buttons4-52 .mbr-section-title {
+  color: #fac51c;
+}
 #contacts1-3n P {
   color: #fac51c;
 }
@@ -923,6 +951,13 @@ h6,
 #msg-box8-3w .mbr-section-title {
   color: #fac51c;
   font-size: 32px;
+}
+#social-buttons4-51 .mbr-section-title,
+#social-buttons4-51 .btn-social {
+  color: #fff;
+}
+#social-buttons4-51 .mbr-section-title {
+  color: #fac51c;
 }
 #contacts1-35 P {
   color: #fac51c;
@@ -1011,6 +1046,13 @@ h6,
   color: #fac51c;
   font-size: 32px;
 }
+#social-buttons4-50 .mbr-section-title,
+#social-buttons4-50 .btn-social {
+  color: #fff;
+}
+#social-buttons4-50 .mbr-section-title {
+  color: #fac51c;
+}
 #contacts1-3a P {
   color: #fac51c;
 }
@@ -1098,6 +1140,13 @@ h6,
   color: #fac51c;
   font-size: 32px;
 }
+#social-buttons4-4z .mbr-section-title,
+#social-buttons4-4z .btn-social {
+  color: #fff;
+}
+#social-buttons4-4z .mbr-section-title {
+  color: #fac51c;
+}
 #contacts1-3f P {
   color: #fac51c;
 }
@@ -1184,6 +1233,13 @@ h6,
 #msg-box8-3z .mbr-section-title {
   color: #fac51c;
   font-size: 32px;
+}
+#social-buttons4-4y .mbr-section-title,
+#social-buttons4-4y .btn-social {
+  color: #fff;
+}
+#social-buttons4-4y .mbr-section-title {
+  color: #fac51c;
 }
 #contacts1-3k P {
   color: #fac51c;
@@ -1273,8 +1329,12 @@ h6,
 #msg-box1-3q H2 {
   color: #ffffff;
 }
-#msg-box1-3r H2 {
-  color: #ffffff;
+#social-buttons4-4x .mbr-section-title,
+#social-buttons4-4x .btn-social {
+  color: #fff;
+}
+#social-buttons4-4x .mbr-section-title {
+  color: #fac51c;
 }
 #contacts1-3n P {
   color: #fac51c;
@@ -1362,6 +1422,13 @@ h6,
 #msg-box8-41 .mbr-section-title {
   color: #fac51c;
   font-size: 32px;
+}
+#social-buttons4-4w .mbr-section-title,
+#social-buttons4-4w .btn-social {
+  color: #fff;
+}
+#social-buttons4-4w .mbr-section-title {
+  color: #fac51c;
 }
 #contacts1-4j P {
   color: #fac51c;
@@ -1492,11 +1559,11 @@ h6,
   color: #fac51c;
   text-align: center;
 }
-#social-buttons4-4i .mbr-section-title,
-#social-buttons4-4i .btn-social {
+#social-buttons4-4u .mbr-section-title,
+#social-buttons4-4u .btn-social {
   color: #fff;
 }
-#social-buttons4-4i .mbr-section-title {
+#social-buttons4-4u .mbr-section-title {
   color: #fac51c;
 }
 #contacts1-4j P {
