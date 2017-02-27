@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "adobeIllustrator.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -346,7 +346,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/RlAyf_OV1tg",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1817,7 +1817,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6-postcard-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x20008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x200014.jpg",
                 "caption": "Austria Postcard",
                 "active": false
               },
@@ -1827,7 +1827,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x20009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x200015.jpg",
                 "caption": "Kayak Engine Blue Print",
                 "active": false
               },
