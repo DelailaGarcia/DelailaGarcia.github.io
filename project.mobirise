@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Delaila Y. Garcia",
-    "currentPage": "index.html",
+    "currentPage": "masterRecreation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -497,7 +497,7 @@
     },
     "credentials.html": {
       "settings": {
-        "title": "Credentials",
+        "title": "DelailaGarcia",
         "order": 3
       },
       "components": [
@@ -1332,7 +1332,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1399,7 +1399,7 @@
     "contact.html": {
       "settings": {
         "order": 4,
-        "title": "Contact"
+        "title": "DelailaGarcia"
       },
       "components": [
         {
@@ -1622,7 +1622,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1713,7 +1713,7 @@
     },
     "adobeIllustrator.html": {
       "settings": {
-        "title": "Adobe Illustrator CC",
+        "title": "DelailaGarcia",
         "meta_descr": "Site Builder Description",
         "order": 5
       },
@@ -1939,7 +1939,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2030,7 +2030,7 @@
     },
     "adobePhotoshop.html": {
       "settings": {
-        "title": "Adobe Photoshop CC",
+        "title": "DelailaGarcia",
         "meta_descr": "Site Builder Description",
         "order": 6
       },
@@ -2286,7 +2286,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2377,7 +2377,7 @@
     },
     "123D.html": {
       "settings": {
-        "title": "123D",
+        "title": "DelailaGarcia",
         "meta_descr": "Site Builder Description",
         "order": 7
       },
@@ -2573,7 +2573,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2664,7 +2664,7 @@
     },
     "finalCutPro.html": {
       "settings": {
-        "title": "Final Cut Pro",
+        "title": "DelailaGarcia",
         "meta_descr": "Site Builder Description",
         "order": 8
       },
@@ -2913,7 +2913,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3004,7 +3004,7 @@
     },
     "microsoft.html": {
       "settings": {
-        "title": "Microsoft",
+        "title": "DelailaGarcia",
         "meta_descr": "Site Builder Description",
         "order": 9
       },
@@ -3253,7 +3253,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3344,7 +3344,7 @@
     },
     "discussIts.html": {
       "settings": {
-        "title": "Discuss Its",
+        "title": "DelailaGarcia",
         "meta_descr": "Web Maker Description",
         "order": 10
       },
@@ -3532,7 +3532,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3623,7 +3623,7 @@
     },
     "masterRecreation.html": {
       "settings": {
-        "title": "Master Recreation",
+        "title": "DelailaGarcia",
         "meta_descr": "Site Builder Description",
         "order": 11
       },
@@ -3819,7 +3819,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3910,7 +3910,7 @@
     },
     "introduction.html": {
       "settings": {
-        "title": "Introduction",
+        "title": "DelailaGarcia",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -4344,7 +4344,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x13330.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
