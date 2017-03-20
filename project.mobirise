@@ -406,7 +406,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1332,7 +1332,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1622,7 +1622,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -1792,7 +1792,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/personal-signature-547x128-22.png",
+              "src": "@PROJECT_PATH@/assets/images/personal%20signature-547x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1862,7 +1862,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-personal-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-personal-logo-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3%20personal%20logo-2000x2000.jpg",
                 "caption": "Personal Logo",
                 "active": false
               },
@@ -1874,7 +1874,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/6-postcard-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x200014.jpg",
                 "caption": "Austria Postcard",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1894,7 +1894,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-1-2000x2000.jpg",
                 "caption": "Miami Arts Studio - Maverick Mascot Entry",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1939,7 +1939,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2296,7 +2296,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2583,7 +2583,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -2923,7 +2923,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3263,7 +3263,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3469,7 +3469,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333-1.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333_1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3615,7 +3615,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -3821,7 +3821,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133326.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3855,30 +3855,30 @@
                 "src": "@PROJECT_PATH@/assets/images/cover-1-2000x1333.jpg",
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/cover-1-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-21.transform/cover-1-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/cover-1-2000x1333-85x48.png",
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-53-55.transform/cover-1-2000x1333-85x48.png",
                 "active": false
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-21.transform/1-2000x1333-1024x768.png",
                 "title": "title 2",
                 "text": "text 2",
-                "tooltip": "@PROJECT_PATH@/assets/images/1-2000x1333-85x48.png",
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-54-10.transform/1-2000x1333-85x48.png",
                 "active": false
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/3-2000x1333.jpg",
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-21.transform/3-2000x1333-1024x768.png",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/3-2000x1333-85x48.png",
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-54-47.transform/3-2000x1333-85x48.png",
                 "active": false
               },
               {
@@ -3886,190 +3886,190 @@
                 "active": true,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-21.transform/4-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/4-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-55-03.transform/4-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-21.transform/5-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/5-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-55-19.transform/5-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/6-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-21.transform/6-2000x1333-1024x768.png",
                 "title": "title 2",
                 "text": "text 2",
-                "tooltip": "@PROJECT_PATH@/assets/images/6-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-56-12.transform/6-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/7-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/7-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/7-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-56-28.transform/7-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/9-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/9-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/9-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/9-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-57-22.transform/9-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/12-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/12-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/12-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/12-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-57-44.transform/12-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/14-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/14-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/14-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/14-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_15-58-18.transform/14-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/15-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/15-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/15-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/15-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-00-01.transform/15-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/16-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/16-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/16-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/16-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-00-19.transform/16-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/17-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/17-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-01-22.transform/17-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/17-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-00-45.transform/17-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/19-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/19-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-02-05.transform/19-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/19-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-02-05.transform/19-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/21-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/21-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-02-40.transform/21-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/21-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-02-40.transform/21-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/22-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/22-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-03-04.transform/22-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/22-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-03-04.transform/22-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/22-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/22-2000x1333-1024x76824.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-03-32.transform/22-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/22-2000x1333-85x4825.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-03-33.transform/22-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/23-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/23-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-03-54.transform/23-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/23-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-03-54.transform/23-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/25-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/25-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-04-36.transform/25-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/25-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-04-36.transform/25-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/28-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/28-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-04-55.transform/28-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/28-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-04-55.transform/28-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/29-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/29-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-05-27.transform/29-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/29-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-05-27.transform/29-2000x1333-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/32-2000x1333.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/32-2000x1333-1024x768.png",
+                "image": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-06-08.transform/32-2000x1333-1024x768.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/32-2000x1333-85x48.png"
+                "tooltip": "file:///var/folders/8x/qmtwx5r10v5fzhysglcg5_780000gn/T/Mobirise-xNzFe5/2017-03-20_16-06-08.transform/32-2000x1333-85x48.png"
               }
             ],
             "theme": "calm",
@@ -4112,7 +4112,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133326.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -4637,7 +4637,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -4896,7 +4896,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -5101,7 +5101,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133326.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5245,7 +5245,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
+            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
