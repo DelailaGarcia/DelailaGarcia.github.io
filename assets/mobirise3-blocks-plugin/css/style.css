@@ -242,8 +242,7 @@
   margin-left: 0; }
 .features6 .features-right .content {
   display: table-cell;
-  vertical-align: middle;
-  width: 100%; }
+  vertical-align: middle; }
 .features6 .central-image {
   vertical-align: top;
   height: auto;
@@ -4370,6 +4369,8 @@
   width: 100%;
   z-index: 5;
   overflow: hidden; }
+  .extFeatures12 .card-img a {
+    font-size: 200px; }
 .extFeatures12 h3 {
   text-align: left;
   font-family: "Montserrat";
