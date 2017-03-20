@@ -521,7 +521,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1828,7 +1828,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1872,7 +1872,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6-postcard-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x200084.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-postcard-2000x2000102.jpg",
                 "caption": "Austria Postcard",
                 "active": false
               },
@@ -1882,7 +1882,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x200085.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-blue-print-2000x2000103.jpg",
                 "caption": "Kayak Engine Blue Print",
                 "active": false
               },
@@ -2145,7 +2145,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2340,7 +2340,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x11786.png",
+              "src": "@PROJECT_PATH@/assets/images/personal-logo-128x117104.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2502,7 +2502,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2789,7 +2789,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3129,7 +3129,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3469,7 +3469,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4604,7 +4604,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4954,7 +4954,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5139,10 +5139,10 @@
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/22-2000x1333-1024x76887.png",
+                "image": "@PROJECT_PATH@/assets/images/22-2000x1333-1024x768105.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/22-2000x1333-85x4888.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/22-2000x1333-85x48106.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/23-2000x1333.jpg",
@@ -5235,7 +5235,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467892748361-67bb7c20d06e-2000x1333-2000x1333101.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
